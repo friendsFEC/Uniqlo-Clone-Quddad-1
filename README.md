@@ -74,7 +74,7 @@ Product Overview: Goksu Okar\
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Dieogenes)](https://github.com/GoksuOkar)
 
 
-Questions and Answers: James Emerson\
+Questions and Answers: James Emerson Vo\
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-loo-a2492380/)](https://www.linkedin.com/in/james-emerson-1a0b5679/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/TimothyLoo)](https://github.com/jamesEmerson112)
 
